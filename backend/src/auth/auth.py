@@ -18,6 +18,7 @@ AUTH0_DOMAIN = "dev-2bm0ojvr4sfeljpt.us.auth0.com"
 ALGORITHMS = ["RS256"]
 API_AUDIENCE = "http://localhost:5000"
 
+
 # AuthError Exception
 """
 AuthError Exception
